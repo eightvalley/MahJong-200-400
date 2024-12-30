@@ -20,7 +20,7 @@ Non si possono gettare i dadi fuori dalla zona di gioco cioè all'esterno della 
 
 
 
-
+🀧
 
 Card   | Points
 ------ | ------
@@ -29,32 +29,44 @@ Card   | Points
 Ace    | 10
 Others | 0
 
-There are 100 points in total, 25 in each suit.
+### Mahjong Board Simulation
 
-!(https://github.com/FluffyStuff/riichi-mahjong-tiles/blob/master/Export/Regular/Man2.png )
-
-
-<img src ="https://github.com/FluffyStuff/riichi-mahjong-tiles/blob/master/Regular/Man2.svg" />
-
-```{image} https://github.com/FluffyStuff/riichi-mahjong-tiles/blob/master/Export/Regular/Man2.png
-:alt: fishy
-:class: bg-primary mb-1
-:width: 200px
-:align: center
-```
-
-
-&#9647;
-
-
-<div style="background-color: white; display: inline-block; padding: 5px;">
-  <img src="https://raw.githubusercontent.com/FluffyStuff/riichi-mahjong-tiles/master/Regular/Man2.svg" width="70%" />
+<div style="display: grid; grid-template-columns: repeat(6, 50px); gap: 5px; text-align: center;">
+  <img src="https://raw.githubusercontent.com/FluffyStuff/riichi-mahjong-tiles/master/Regular/Man1.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/FluffyStuff/riichi-mahjong-tiles/master/Regular/Man2.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/FluffyStuff/riichi-mahjong-tiles/master/Regular/Man3.svg" width="50" />
+  <span>🀄</span>
+  <span>🀅</span>
+  <span>🀆</span>
 </div>
 
 
 
 
 
- __
-|  |
-|__|
+<h3>Mahjong Simulazione</h3>
+<div style="font-size: 40px; line-height: 1.5;">
+  🀄 🀅 🀆 🀇 🀈 🀉  
+  🀊 🀋 🀌 🀍 🀎 🀏  
+  🀐 🀑 🀒 🀓 🀔 🀕  
+</div>
+
+
+
+### Mahjong Tiles (Ingrandite)
+
+<div style="font-size: 50px; display: grid; grid-template-columns: repeat(9, 1fr); gap: 10px; text-align: center;">
+  🀀 🀁 🀂 🀃 🀄 🀅 🀆  
+  🀇 🀈 🀉 🀊 🀋 🀌 🀍  
+  🀎 🀏 🀐 🀑 🀒 🀓 🀔  
+  🀕 🀖 🀗 🀘 🀙 🀚 🀛  
+  🀜 🀝 🀞 🀟 🀠 🀡 🀢  
+  🀣 🀤 🀥 🀦 🀧 🀨 🀩  
+  🀪 🀫
+</div>
+
+
+
+
+
+
