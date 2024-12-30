@@ -14,7 +14,7 @@ Ogni giocatore costruisce il proprio "__*muro*__" raccogliendo le 36 pedine sorm
 
 Ogni giocatore tira il dado da 20 facce,chi ottiene il punteggio più alto è l'Est. Automaticamente girando verso sinistra in senso orario glia altri saranno il Sud, l'Ovest, il Nord.
 
-A questo punto lèEst tira i due dadi, il punteggio di quello da 20 facce indica la posizione delle pedine nel muro, quello da 6 facce indica il muro (es. il dado 20 fa 15 il dado 6 fa 2 = 15 nella seconda quindi l'Est preleverà nella stecca del Sud la sedicesima e diciasettesima coppia, contando da sinistra verso destra). Essendoci un tempo per terminare le 8 mani previste, quest'ultima operazionefa risparmiare qualche minuto.
+A questo punto l'Est tira i due dadi, il punteggio di quello da 20 facce indica la posizione delle pedine nel muro, quello da 6 facce indica il muro (es. il dado 20 fa 15 il dado 6 fa 2 = 15 nella seconda quindi l'Est preleverà nella stecca del Sud la sedicesima e diciasettesima coppia, contando da sinistra verso destra). Essendoci un tempo per terminare le 8 mani previste, quest'ultima operazionefa risparmiare qualche minuto.
 
 Non si possono gettare i dadi fuori dalla zona di gioco cioè all'esterno della muraglia, questo per rendere possibile a tutti di controllare il punteggio ottenuto.
 
@@ -31,9 +31,29 @@ Others | 0
 
 There are 100 points in total, 25 in each suit.
 
-![Alt text](https://assets.digitalocean.com/articles/alligator/boo.svg "a title")
+!(https://github.com/FluffyStuff/riichi-mahjong-tiles/blob/master/Export/Regular/Man2.png )
+
+
+<img src ="https://github.com/FluffyStuff/riichi-mahjong-tiles/blob/master/Regular/Man2.svg" />
+
+```{image} https://github.com/FluffyStuff/riichi-mahjong-tiles/blob/master/Export/Regular/Man2.png
+:alt: fishy
+:class: bg-primary mb-1
+:width: 200px
+:align: center
+```
+
 
 &#9647;
+
+
+<div style="background-color: white; display: inline-block; padding: 5px;">
+  <img src="https://raw.githubusercontent.com/FluffyStuff/riichi-mahjong-tiles/master/Regular/Man2.svg" width="70%" />
+</div>
+
+
+
+
 
  __
 |  |
