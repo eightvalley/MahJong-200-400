@@ -19,54 +19,58 @@ A questo punto l'Est tira i due dadi, il punteggio di quello da 20 facce indica 
 Non si possono gettare i dadi fuori dalla zona di gioco cioè all'esterno della muraglia, questo per rendere possibile a tutti di controllare il punteggio ottenuto.
 
 
+========================================================================================================
 
-🀧
+https://github.com/WarL0ckNet/tile-art/tree/master
+https://github.com/perthmahjongsoc/mahjong-tiles-svg/tree/master
+https://github.com/FluffyStuff/riichi-mahjong-tiles
 
-Card   | Points
------- | ------
-5      | 5 
-10     | 10
-Ace    | 10
-Others | 0
 
 ### Mahjong Board Simulation
 
 <div style="display: grid; grid-template-columns: repeat(6, 50px); gap: 5px; text-align: center;">
-  <img src="https://raw.githubusercontent.com/FluffyStuff/riichi-mahjong-tiles/master/Regular/Man1.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/FluffyStuff/riichi-mahjong-tiles/master/Regular/Man2.svg" width="50" />
-  <img src="https://raw.githubusercontent.com/FluffyStuff/riichi-mahjong-tiles/master/Regular/Man3.svg" width="50" />
-  <span>🀄</span>
-  <span>🀅</span>
-  <span>🀆</span>
+  <img src="https://github.com/WarL0ckNet/tile-art/blob/master/simple_tiles/5pin.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/WarL0ckNet/tile-art/refs/heads/master/simple_tiles/1pin.svg" width="50" />
 </div>
 
 
+# Mahjong Tiles
 
+Ecco tutte le pedine del gioco del Mahjong dal repository:
 
-
-<h3>Mahjong Simulazione</h3>
-<div style="font-size: 40px; line-height: 1.5;">
-  🀄 🀅 🀆 🀇 🀈 🀉  
-  🀊 🀋 🀌 🀍 🀎 🀏  
-  🀐 🀑 🀒 🀓 🀔 🀕  
+<div style="display: grid; grid-template-columns: repeat(6, 50px); gap: 5px; text-align: center;">
+  <img src="https://raw.githubusercontent.com/WarL0ckNet/tile-art/master/simple_tiles/1pin.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/WarL0ckNet/tile-art/master/simple_tiles/2pin.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/WarL0ckNet/tile-art/master/simple_tiles/3pin.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/WarL0ckNet/tile-art/master/simple_tiles/4pin.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/WarL0ckNet/tile-art/master/simple_tiles/5pin.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/WarL0ckNet/tile-art/master/simple_tiles/6pin.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/WarL0ckNet/tile-art/master/simple_tiles/7pin.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/WarL0ckNet/tile-art/master/simple_tiles/8pin.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/WarL0ckNet/tile-art/master/simple_tiles/9pin.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/WarL0ckNet/tile-art/master/simple_tiles/1sou.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/WarL0ckNet/tile-art/master/simple_tiles/2sou.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/WarL0ckNet/tile-art/master/simple_tiles/3sou.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/WarL0ckNet/tile-art/master/simple_tiles/4sou.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/WarL0ckNet/tile-art/master/simple_tiles/5sou.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/WarL0ckNet/tile-art/master/simple_tiles/6sou.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/WarL0ckNet/tile-art/master/simple_tiles/7sou.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/WarL0ckNet/tile-art/master/simple_tiles/8sou.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/WarL0ckNet/tile-art/master/simple_tiles/9sou.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/WarL0ckNet/tile-art/master/simple_tiles/1man.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/WarL0ckNet/tile-art/master/simple_tiles/2man.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/WarL0ckNet/tile-art/master/simple_tiles/3man.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/WarL0ckNet/tile-art/master/simple_tiles/4man.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/WarL0ckNet/tile-art/master/simple_tiles/5man.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/WarL0ckNet/tile-art/master/simple_tiles/6man.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/WarL0ckNet/tile-art/master/simple_tiles/7man.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/WarL0ckNet/tile-art/master/simple_tiles/8man.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/WarL0ckNet/tile-art/master/simple_tiles/9man.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/WarL0ckNet/tile-art/master/simple_tiles/red_dragon.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/WarL0ckNet/tile-art/master/simple_tiles/green_dragon.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/WarL0ckNet/tile-art/master/simple_tiles/white_dragon.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/WarL0ckNet/tile-art/master/simple_tiles/east_wind.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/WarL0ckNet/tile-art/master/simple_tiles/south_wind.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/WarL0ckNet/tile-art/master/simple_tiles/west_wind.svg" width="50" />
+  <img src="https://raw.githubusercontent.com/WarL0ckNet/tile-art/master/simple_tiles/north_wind.svg" width="50" />
 </div>
-
-
-
-### Mahjong Tiles (Ingrandite)
-
-<div style="font-size: 50px; display: grid; grid-template-columns: repeat(9, 1fr); gap: 10px; text-align: center;">
-  🀀 🀁 🀂 🀃 🀄 🀅 🀆  
-  🀇 🀈 🀉 🀊 🀋 🀌 🀍  
-  🀎 🀏 🀐 🀑 🀒 🀓 🀔  
-  🀕 🀖 🀗 🀘 🀙 🀚 🀛  
-  🀜 🀝 🀞 🀟 🀠 🀡 🀢  
-  🀣 🀤 🀥 🀦 🀧 🀨 🀩  
-  🀪 🀫
-</div>
-
-
-
-
-
-
